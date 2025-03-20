@@ -6,7 +6,7 @@ Public class{
 print(c)
 
 public __init__ {
-
+print("this is constructor")
 
 
 	}
