@@ -1,0 +1,8 @@
+public Class{
+Public class static void main(){
+
+
+}
+
+}
+
