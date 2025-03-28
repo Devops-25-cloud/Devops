@@ -1,7 +1,7 @@
 Public class{
 	Public static void main{
- a=10
- b=20
+int a=50
+int b=40
  c= a+b
 print(c)
 
