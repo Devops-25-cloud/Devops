@@ -1,14 +1,8 @@
 Public class{
-	Public static void main{
- a=10
- b=20
- c= a+b
-print(c)
+	Public static void main(string() arg[]){
+ int  i,
 
-public __init__ {
-print("this is constructor")
-int a =20
-int b=30
-
+      for(i=0; i<=10 ; i++){
+	      System.out.print(i)
 	}
 }
