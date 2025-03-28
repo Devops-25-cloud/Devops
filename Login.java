@@ -7,7 +7,8 @@ print(c)
 
 public __init__ {
 print("this is constructor")
-
+int a =20
+int b=30
 
 	}
 }
